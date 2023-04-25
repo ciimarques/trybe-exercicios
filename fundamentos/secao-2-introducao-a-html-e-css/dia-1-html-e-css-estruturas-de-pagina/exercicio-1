@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+      <ul>
+       <a href="#Adilson"></a> <li>Adilson</li>
+       <a href="#Vinicius"></a><li>Vinicius</li>
+       <a href="#Erickson"></a><li>Erickson</li>
+       <a href="#Wilson"></a><li>Wilson</li>
+       <a href="#Juliana"></a><li>Juliana</li>
+      </ul>
+    <p id="Adilson"> <strong>Adilson:</strong>Não podemos fazer nada sozinhos, por isso, a sua parceria é o
+                    que torna o trabalho mais profissional.</p>
+    <p id="Vinicius"><strong>Vinicius:</strong>Não podemos fazer nada sozinhos, por isso, a sua parceria é o
+                    que torna o trabalho mais profissional.</p>
+    <p id="Erickson"></p><strong>Erickson:</strong>Não podemos fazer nada sozinhos, por isso, a sua parceria é o
+                    que torna o trabalho mais profissional.</p>
+    <p id="Wilson"></p><strong>Wilson:</strong>Não podemos fazer nada sozinhos, por isso, a sua parceria é o
+                    que torna o trabalho mais profissional.</p>
+    <p id="Juliana"></p><strong>Juliana:</strong>Não podemos fazer nada sozinhos, por isso, a sua parceria é o
+                    que torna o trabalho mais profissional.</p>
+    <a href="https://www.google.com.br/" target="_blank"></a> Pesquisa </a>
+    
+  </body>
+</html>
