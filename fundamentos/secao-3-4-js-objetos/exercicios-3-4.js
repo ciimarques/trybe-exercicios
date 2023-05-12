@@ -58,7 +58,7 @@ for (let key in info){
       }
     } */
 // Pedido Cliente
-let order = {
+/*let order = {
     name: 'Rafael Andrade',
     phoneNumber: '11-98763-1416',
     address: {
@@ -112,4 +112,4 @@ let order = {
    return 'Olá, ' + newName + ', o valor total de seu pedido de ' + pizzaECoca + totalValor
   }
   
-  console.log(orderModifier(order));
+  console.log(orderModifier(order));*/
